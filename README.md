@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nguyen Thu Thuy
 
-[![Dev.to](https://github-readme-stats.vercel.app/api/pin/?username=thuynt46&repo=dev.to)](https://github.com/thepracticaldev/dev.to)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=thuynt46)
 
 
 <!---
